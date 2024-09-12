@@ -1,0 +1,1236 @@
+fileFormatVersion: 2
+guid: e718cc23c18a40c4ca793617b08f506a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 215
+        width: 84
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ccd20eaa49a204d935050df7f99369
+      internalID: -762904111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 215
+        width: 124
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe4981c6daa90f46bf905df2582b8f5
+      internalID: 1010707136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_2
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 215
+        width: 84
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41a1f6ad6880ca4588374573e043e5c
+      internalID: -847667436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 155
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57d9dbcfccfe9048a38250efbce0831
+      internalID: -1052375455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 155
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8b3d7de88a21b409bcee77f3a38c24
+      internalID: 725882940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 155
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bf0f8d1a8619447bd3072a0ada0658
+      internalID: -1580660233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 155
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0a2b14f8b451c4c852c4e15300346b
+      internalID: -545711393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 155
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd79ba1eb73ea34984efe54f1ad326c
+      internalID: -2143943187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_8
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 155
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8be3e7a8a2ad042af23d22e17fda07
+      internalID: 1856314781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 155
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a50d7b9914b00d4780dc01899e02780
+      internalID: 60998031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 155
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d08ab7f7ab9654a805019878181009
+      internalID: -1724912359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 155
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d19439deb3d05944807f6fb87681859
+      internalID: 842935299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_12
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 155
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1848a0a60c31741b6ac2150259c8be
+      internalID: -977841027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_13
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 155
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633a5113cdfb1b34cbad41c605863473
+      internalID: 968216286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_14
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 155
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff09255ad5d269243b9fc48b217d67db
+      internalID: 1858713651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 116
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d19244550994d346877ae8c73556cf7
+      internalID: -1758362649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 116
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7541cd18178754da204c99c2dfc32a
+      internalID: -1206066894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 116
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9dbeb81014897459b4f352cfe70108
+      internalID: 523006826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 116
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dfcf915e86f8f4a99e84b28bd8aa52
+      internalID: 1641555673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_19
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 116
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e391609c89135634da4f7097612f65ca
+      internalID: 1144366361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_20
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 115
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4fc1a631559b84fbd128783e0c82e2
+      internalID: 180503711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 116
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691f789286cfd604598072f33ed7862d
+      internalID: -1188097140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_22
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 116
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba479e7ede2773c42ba103a61e90964f
+      internalID: -2036298839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_23
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 116
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c858da5d574017747919b6bc04ca2469
+      internalID: -503257318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_24
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 115
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628a784a842e2574d9696ead9d68242a
+      internalID: -433240818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_25
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 115
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdfbb6ee13bce642b76ef2bfbeece7f
+      internalID: 1690471958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_26
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 115
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d40e1e9f7d7c994590dd31b4f25a5ae
+      internalID: 58781484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 66
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cc33437dcf5e647bb05a6546a376e4
+      internalID: 259248357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 25
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed25386201c061e4ead3bd35e513f89b
+      internalID: -1964739730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_29
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 25
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94965ae4d85aa842a958d158d993eeb
+      internalID: -1672535376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 66
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2de7425e4f6b14d812d4050b8cd6d0
+      internalID: -2083296531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_31
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 66
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f836301438b2fd4b8c4368d5ab91f8c
+      internalID: 1024305040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_32
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 25
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8ddcecafac37d45865ae35aeef96d4
+      internalID: -346319578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_33
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 25
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d79918fd92f9b4bb5edd227ff075a1
+      internalID: -742193785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_34
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 65
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc8b1f749f492347b7863d9cbd0907a
+      internalID: 1905734498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_35
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 64
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa400e3eb13ae29478db86dafe976a76
+      internalID: -124876676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_36
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 64
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f273ae7a6635a14a9fa6fd4dcd8cd24
+      internalID: -656919131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_37
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 25
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d3f0c43530c3549844e3eae1ccb0ad
+      internalID: -1701201849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_38
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85072491e3c3ab4883626612e1a5808
+      internalID: 1712288100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_39
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 66
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d219dc7d1d2f8234a89335c152b70468
+      internalID: 708660015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_40
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 25
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22a6bb2ec9a9fc47bec40b36653021c
+      internalID: -1316454400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_41
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 25
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62b51875ec2a7d4abef2615f53670ae
+      internalID: -909565908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_42
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 66
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9d677862ae92d43bb839c0f2ad74b2
+      internalID: -1931856093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_43
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 25
+        width: 25
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d0df1f2adf6804ca3af6a5505df297
+      internalID: 934765818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_44
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 64
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4d3542d5afcf04995fbf8cd2afcddc
+      internalID: 1991607802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_45
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 64
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dca0c3d94029e64eb2e2572379b56d7
+      internalID: 1229716322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_46
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 25
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3623329b1f02c4cbc0f1aded390722
+      internalID: 1161085990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_47
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 25
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fefc84bca8589a49b84f1a2ce43c151
+      internalID: 2101469816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_48
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 51
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5a5de60cbc78048a1ea422b927241a
+      internalID: 1768063333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_49
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 25
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1c27907650e0d488cd44943a5a3d67
+      internalID: 1081918699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d-environment-2d-miniature-pixel-people-sprites-1_800x_50
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 25
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7544e74572b832d40920e35948f920c9
+      internalID: 1479238872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_0: -762904111
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_1: 1010707136
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_10: -1724912359
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_11: 842935299
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_12: -977841027
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_13: 968216286
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_14: 1858713651
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_15: -1758362649
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_16: -1206066894
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_17: 523006826
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_18: 1641555673
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_19: 1144366361
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_2: -847667436
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_20: 180503711
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_21: -1188097140
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_22: -2036298839
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_23: -503257318
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_24: -433240818
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_25: 1690471958
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_26: 58781484
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_27: 259248357
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_28: -1964739730
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_29: -1672535376
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_3: -1052375455
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_30: -2083296531
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_31: 1024305040
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_32: -346319578
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_33: -742193785
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_34: 1905734498
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_35: -124876676
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_36: -656919131
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_37: -1701201849
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_38: 1712288100
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_39: 708660015
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_4: 725882940
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_40: -1316454400
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_41: -909565908
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_42: -1931856093
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_43: 934765818
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_44: 1991607802
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_45: 1229716322
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_46: 1161085990
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_47: 2101469816
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_48: 1768063333
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_49: 1081918699
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_5: -1580660233
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_50: 1479238872
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_6: -545711393
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_7: -2143943187
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_8: 1856314781
+      2d-environment-2d-miniature-pixel-people-sprites-1_800x_9: 60998031
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
